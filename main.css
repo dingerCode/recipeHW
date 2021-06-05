@@ -1,0 +1,15 @@
+body {
+  font-family: "Gill Sans", sans-serif;
+  background-color: mediumturquoise;
+}
+
+h1 {
+  font-family: "Just Another Hand", cursive;
+  font-size: 85px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
